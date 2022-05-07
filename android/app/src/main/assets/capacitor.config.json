@@ -1,0 +1,6 @@
+{
+	"appId": "com.ironhuy.simpleCalc",
+	"appName": "Simple Calc",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
